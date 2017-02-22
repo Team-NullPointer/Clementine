@@ -35,7 +35,7 @@ void PlaylistListView::paintEvent(QPaintEvent* event) {
 
     p.drawText(rect, Qt::AlignHCenter | Qt::TextWordWrap,
                tr("\n\n"
-                  "You can favorite playlists by clicking the star icon next "
+                  "You can favorite playlists by clicking the star icon nex "
                   "to a playlist name\n\n"
                   "Favorited playlists will be saved here\n\n"
                   "Melissa Manley, Ian Dillon, Hy Diep, Yonghu Chang, Grace Dolphy\n"));
