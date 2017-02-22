@@ -23,7 +23,6 @@
 
 #include <QStringList>
 
-#include <functional>
 #include <limits>
 
 // boost::multi_index still relies on these being in the global namespace.
