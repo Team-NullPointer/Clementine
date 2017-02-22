@@ -37,7 +37,9 @@ void PlaylistListView::paintEvent(QPaintEvent* event) {
                tr("\n\n"
                   "You can favorite playlists by clicking the star icon next "
                   "to a playlist name\n\n"
-                  "Favorited playlists will be saved here"));
+                  "Favorited playlists will be saved here\n\n"
+                  "Melissa Manley, Ian Dillon, Hy Diep, Yonghu Chang, Grace Dolphy\n"));
+
   } else {
     AutoExpandingTreeView::paintEvent(event);
   }
